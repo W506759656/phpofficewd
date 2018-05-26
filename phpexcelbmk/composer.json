@@ -32,7 +32,7 @@
     },
     "autoload": {
         "psr-0": {
-            "PHPExcel": "Classes/"
+            "phpexcelbmk": "Classes/"
         }
     }
 }
